@@ -17,3 +17,5 @@
 
 
 #### Note: You can Edit the CSV File before you sync it to your on Local Domain - in case you want to delete admin or services accounts
+
+## Read more about the Script and How to use it https://www.azure-heros.com/blog/powershell-script-sync-azure-ad-users-back
